@@ -1,4 +1,5 @@
 public class Practice {
+
     public static void main(String[] args) {
         practice1(); // Напишите программу, которая проверяет, является ли строка палиндромом
     }
